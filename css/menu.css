@@ -1,0 +1,16 @@
+.menu ul{
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.menu li{
+  color: white;
+  text-decoration: none;
+}
+
+.menu a{
+  text-decoration: none;
+  color: white;
+}
